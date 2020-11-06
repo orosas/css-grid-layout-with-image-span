@@ -9,6 +9,6 @@ Medios de contacto del autor del video:
     http://www.twitter.com/traversymedia
     http://www.instagram.com/traversymedia
 
-- La funcionalidad de div:hover no funciona para los navegadores Firefox, ya que muestra la imagen completa en el grid item.
+- La funcionalidad de div:hover no funciona para los navegadores Firefox e Internet explorer, ya que muestra la imagen completa en el grid item.
 
 Noviembre 2020 Omar Rosas
